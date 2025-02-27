@@ -1,0 +1,2 @@
+# simplesmart
+Assignment from SimpleSmart
